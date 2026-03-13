@@ -66,7 +66,7 @@ Designed and simulated an **energy monitoring system** that calculates power, en
 - **Introduction to Internet of Things** – NPTEL  
 - **VLSI System on Chip Design Overview** – Maven Silicon  
 - **Digital Signal Processing: Basic Concepts and Algorithms** – Coursera
-- **Machine Learning for Signal and Image Processing using Raspberry Pi -Zeekers Solutions Technology P.L.
+- Machine Learning for Signal and Image Processing using Raspberry Pi -Zeekers Solutions Technology P.L.
 ---
 
 # Internship
@@ -122,3 +122,4 @@ Sep 2024 – Mar 2025
 63/1, Seetha Nagar  
 
 Dharapuram – 638656
+
